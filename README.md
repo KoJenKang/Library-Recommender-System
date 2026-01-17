@@ -54,5 +54,5 @@ It recommends books to users based on the similarity of book content, metadata a
 
 ## 🛠️ Application
 - **API**: I wrapped it as a RESTful API using Pythonanywhere to be able to embedded onto the website
-- 
+https://karenkang.pythonanywhere.com/recommend?book_id=
 
