@@ -50,7 +50,9 @@ It recommends books to users based on the similarity of book content, metadata a
 - **NLP**:
   - [Sentence-BERT](https://www.sbert.net/) for multilingual embeddings  
     (`paraphrase-multilingual-MiniLM-L12-v2`)
-  - jieba for Chinese text segmentation (if using TF-IDF baseline)
 - **Environment**: Jupyter Notebook / Google Colab
+
+## 🛠️ Application
+- **API**: I wrapped it as a RESTful API using Pythonanywhere to be able to embedded onto the website
 
 
